@@ -13,5 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('My_name is koppuravuri lakshmi bharath')
     print('I am a machine learning engineer')
+    print("I dont like junk")
+    print("I like junk")
+    print("I am thirsty")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
