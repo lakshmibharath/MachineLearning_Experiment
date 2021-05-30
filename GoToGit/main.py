@@ -12,5 +12,11 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('My_name is koppuravuri lakshmi bharath')
+    print('My name is bharath')
+    print('I am a machine learning engineer')
+    print("I dont like junk")
+    print("I like junk")
+    print("I am thirsty")
+    print("Try a good merge")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
