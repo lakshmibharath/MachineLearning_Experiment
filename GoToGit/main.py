@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print("I dont like junk")
     print("I like junk")
     print("I am thirsty")
+    print("Try a good merge")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
